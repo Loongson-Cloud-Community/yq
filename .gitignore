@@ -28,10 +28,8 @@ coverage.html
 *.test
 *.prof
 yaml
-vendor/
 tmp/
 cover/
-yq
 
 # snapcraft
 parts/
